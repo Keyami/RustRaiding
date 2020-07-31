@@ -1,0 +1,11 @@
+name: "RustRaiding"
+version: '1.0'
+api-version: 1.13
+main: io.github.Keyami.RustRaiding.RustRaiding
+softdepend:
+  - Factions
+commands:
+  rr:
+    permission: rr.give
+    description: Give yourself an explosive.
+    usage: /rr <type>
