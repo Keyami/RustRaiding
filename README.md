@@ -1,3 +1,5 @@
+Honestly not sure if this is fully up to date code. I felt I could make this repo public since, well, it's been 2 years so I'm not particularly scared of it being stolen anymore lol.
+
 # RustRaiding 1.16.4
 
 The primary purpose of this plugin is to incorporate the explosives from the game Rust:
